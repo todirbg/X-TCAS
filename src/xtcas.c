@@ -2613,7 +2613,7 @@ xtcas_init(const sim_intf_input_ops_t *intf_input_ops,
 		ASSERT(intf_output_ops->update_RA != NULL);
 	}
 
-	memset(&my_acf_glob, 0, sizeof (my_acf_glob));
+	//memset(&my_acf_glob, 0, sizeof (my_acf_glob));
 	avl_create(&other_acf_glob, acf_compar,
 	    sizeof (tcas_acf_t), offsetof(tcas_acf_t, node));
 	mutex_init(&acf_lock);

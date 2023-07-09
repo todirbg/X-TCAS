@@ -36,6 +36,7 @@
 #include <acfutils/safe_alloc.h>
 #include <acfutils/thread.h>
 #include <acfutils/time.h>
+#include <acfutils/math.h>
 
 #include "vsi.h"
 #include "xplane.h"
