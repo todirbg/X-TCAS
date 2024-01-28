@@ -1,0 +1,12 @@
+prefix=/media/todir/DATA/Shared/Ubuntu/libacfutils/openal-soft/openal-soft-1.21.0-win-64/build/install
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenAL
+Description: OpenAL is a cross-platform 3D audio API
+Requires: 
+Version: 1.21.0
+Libs: -L${libdir} -lOpenAL32 
+Libs.private: /usr/x86_64-w64-mingw32/lib/libwinmm.a -latomic -lm
+Cflags: -I${includedir} -I${includedir}/AL -DAL_LIBTYPE_STATIC

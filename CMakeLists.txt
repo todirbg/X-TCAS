@@ -13,5 +13,8 @@
 
 # Copyright 2016 Saso Kiselkov. All rights reserved.
 
+cmake_minimum_required(VERSION 3.9)
+
+project(xtcas C)
+
 add_subdirectory(src)
-cmake_minimum_required(VERSION 2.8)

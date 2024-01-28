@@ -12,3 +12,6 @@ src/cmake_install.cmake
 docs
 cmdfiles
 X-TCAS
+.vscode
+/Deploy
+/build

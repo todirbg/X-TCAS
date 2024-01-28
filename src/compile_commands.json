@@ -1,0 +1,149 @@
+[{
+  "file": "/home/todir/Downloads/X-TCAS/src/xtcas.c",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-gcc -c /home/todir/Downloads/X-TCAS/src/xtcas.c -o /home/todir/Downloads/X-TCAS/src/xtcas.c.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I."
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/generic_intf.c",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-gcc -c /home/todir/Downloads/X-TCAS/src/generic_intf.c -o /home/todir/Downloads/X-TCAS/src/generic_intf.c.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I."
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/SL.c",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-gcc -c /home/todir/Downloads/X-TCAS/src/SL.c -o /home/todir/Downloads/X-TCAS/src/SL.c.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I."
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/xplane_test.c",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-gcc -c /home/todir/Downloads/X-TCAS/src/xplane_test.c -o /home/todir/Downloads/X-TCAS/src/xplane_test.c.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I."
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/xplane.c",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-gcc -c /home/todir/Downloads/X-TCAS/src/xplane.c -o /home/todir/Downloads/X-TCAS/src/xplane.c.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I."
+ }, {
+  "file": "/home/todir/Downloads/OpenWXR/src/fontmgr.c",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-gcc -c /home/todir/Downloads/OpenWXR/src/fontmgr.c -o /home/todir/Downloads/OpenWXR/src/fontmgr.c.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I."
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/vsi.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/X-TCAS/src/vsi.h -o /home/todir/Downloads/X-TCAS/src/vsi.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/ff_a320_intf.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/X-TCAS/src/ff_a320_intf.h -o /home/todir/Downloads/X-TCAS/src/ff_a320_intf.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/todir/Downloads/OpenWXR/src/fontmgr.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/OpenWXR/src/fontmgr.h -o /home/todir/Downloads/OpenWXR/src/fontmgr.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/todir/Downloads/OpenWXR/src/wxr.c",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-gcc -c /home/todir/Downloads/OpenWXR/src/wxr.c -o /home/todir/Downloads/OpenWXR/src/wxr.c.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I."
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/dbg_log.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/X-TCAS/src/dbg_log.h -o /home/todir/Downloads/X-TCAS/src/dbg_log.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/todir/Downloads/OpenWXR/src/xplane.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/OpenWXR/src/xplane.h -o /home/todir/Downloads/OpenWXR/src/xplane.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/todir/Downloads/OpenWXR/src/xplane.c",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-gcc -c /home/todir/Downloads/OpenWXR/src/xplane.c -o /home/todir/Downloads/OpenWXR/src/xplane.c.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I."
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/vsi.c",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-gcc -c /home/todir/Downloads/X-TCAS/src/vsi.c -o /home/todir/Downloads/X-TCAS/src/vsi.c.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I."
+ }, {
+  "file": "/home/todir/Downloads/OpenWXR/src/wxr.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/OpenWXR/src/wxr.h -o /home/todir/Downloads/OpenWXR/src/wxr.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/snd_sys.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/X-TCAS/src/snd_sys.h -o /home/todir/Downloads/X-TCAS/src/snd_sys.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/todir/Downloads/OpenWXR/src/standalone.c",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-gcc -c /home/todir/Downloads/OpenWXR/src/standalone.c -o /home/todir/Downloads/OpenWXR/src/standalone.c.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I."
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/dbg_log.c",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-gcc -c /home/todir/Downloads/X-TCAS/src/dbg_log.c -o /home/todir/Downloads/X-TCAS/src/dbg_log.c.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I."
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/test.c",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-gcc -c /home/todir/Downloads/X-TCAS/src/test.c -o /home/todir/Downloads/X-TCAS/src/test.c.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I."
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/pos.c",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-gcc -c /home/todir/Downloads/X-TCAS/src/pos.c -o /home/todir/Downloads/X-TCAS/src/pos.c.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I."
+ }, {
+  "file": "/home/todir/Downloads/OpenWXR/src/prototypes/prototype.c",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-gcc -c /home/todir/Downloads/OpenWXR/src/prototypes/prototype.c -o /home/todir/Downloads/OpenWXR/src/prototypes/prototype.c.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I."
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/snd_sys.c",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-gcc -c /home/todir/Downloads/X-TCAS/src/snd_sys.c -o /home/todir/Downloads/X-TCAS/src/snd_sys.c.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I."
+ }, {
+  "file": "/home/todir/Downloads/OpenWXR/src/atmo_xp11.c",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-gcc -c /home/todir/Downloads/OpenWXR/src/atmo_xp11.c -o /home/todir/Downloads/OpenWXR/src/atmo_xp11.c.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I."
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/SL.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/X-TCAS/src/SL.h -o /home/todir/Downloads/X-TCAS/src/SL.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/todir/Downloads/OpenWXR/src/prototypes/prototype.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/OpenWXR/src/prototypes/prototype.h -o /home/todir/Downloads/OpenWXR/src/prototypes/prototype.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/todir/Downloads/OpenWXR/src/atmo_xp11.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/OpenWXR/src/atmo_xp11.h -o /home/todir/Downloads/OpenWXR/src/atmo_xp11.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/todir/Downloads/OpenWXR/src/standalone.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/OpenWXR/src/standalone.h -o /home/todir/Downloads/OpenWXR/src/standalone.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/todir/Downloads/OpenWXR/src/dbg_log.c",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-gcc -c /home/todir/Downloads/OpenWXR/src/dbg_log.c -o /home/todir/Downloads/OpenWXR/src/dbg_log.c.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I."
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/xtcas.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/X-TCAS/src/xtcas.h -o /home/todir/Downloads/X-TCAS/src/xtcas.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/ff_a320_intf.c",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-gcc -c /home/todir/Downloads/X-TCAS/src/ff_a320_intf.c -o /home/todir/Downloads/X-TCAS/src/ff_a320_intf.c.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I."
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/xplane.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/X-TCAS/src/xplane.h -o /home/todir/Downloads/X-TCAS/src/xplane.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/todir/Downloads/OpenWXR/src/dbg_log.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/OpenWXR/src/dbg_log.h -o /home/todir/Downloads/OpenWXR/src/dbg_log.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/test.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/X-TCAS/src/test.h -o /home/todir/Downloads/X-TCAS/src/test.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/todir/Downloads/OpenWXR/src/atmo.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/OpenWXR/src/atmo.h -o /home/todir/Downloads/OpenWXR/src/atmo.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/xplane_test.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/X-TCAS/src/xplane_test.h -o /home/todir/Downloads/X-TCAS/src/xplane_test.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/todir/Downloads/OpenWXR/src/glpriv.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/OpenWXR/src/glpriv.h -o /home/todir/Downloads/OpenWXR/src/glpriv.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/todir/Downloads/X-TCAS/src/pos.h",
+  "directory": "/home/todir/Downloads/X-TCAS/src",
+  "command": "/usr/bin/i686-w64-mingw32-g++ -c /home/todir/Downloads/X-TCAS/src/pos.h -o /home/todir/Downloads/X-TCAS/src/pos.h.o -target i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++ -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/i686-w64-mingw32 -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include/c++/backward -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include -I/usr/lib/gcc/i686-w64-mingw32/10-win32/include-fixed -I/usr/i686-w64-mingw32/include -I. -I.  -g -Wall"
+ }]

@@ -146,7 +146,10 @@ typedef struct {
 	vsi_state_t	state;
 
 	uint64_t	start_time;
+    XPLMCommandRef scale_up_cmd, scale_dn_cmd;
 } vsi_t;
+
+static int vsi_scale_command_handler(XPLMCommandRef, XPLMCommandPhase, void *);
 
 typedef struct {
 	const void	*acf_id;
@@ -1159,6 +1162,21 @@ vsi_init(const char *plugindir)
 		    "xtcas/vsi/%d/fail_dr", i);
 		dr_create_i(&vsi->busnr_dr, (int *)&vsi->busnr, B_TRUE,
 		    "xtcas/vsi/%d/busnr", i);
+		
+		char cmd_name[64];
+		char cmd_desc[128];
+
+		sprintf(cmd_name, "xtcas/vsi/%d/scale_up_cmd", i);
+		sprintf(cmd_desc, "VSI %d TCAS scale UP", i);
+		vsi->scale_up_cmd = XPLMCreateCommand(cmd_name, cmd_desc);
+		sprintf(cmd_name, "xtcas/vsi/%d/scale_dn_cmd", i);
+		sprintf(cmd_desc, "VSI %d TCAS scale DN", i);
+		vsi->scale_dn_cmd = XPLMCreateCommand(cmd_name, cmd_desc);
+
+		XPLMRegisterCommandHandler(vsi->scale_up_cmd,
+			   vsi_scale_command_handler, 1, (void *)vsi);
+		XPLMRegisterCommandHandler(vsi->scale_dn_cmd,
+			   vsi_scale_command_handler, 1, (void *)vsi);
 
 		mutex_init(&vsi->tex_lock);
 		vsi->cur_tex = -1;
@@ -1251,6 +1269,22 @@ errout:
 	return (B_FALSE);
 }
 
+static int vsi_scale_command_handler(XPLMCommandRef ref, XPLMCommandPhase phase, void * refcon)
+{
+	vsi_t *vsi = (vsi_t *)refcon;
+	if (phase == xplm_CommandBegin && refcon != NULL)
+	{
+		if (ref == vsi->scale_up_cmd)
+		{
+			if (vsi->scale_enum < (VSI_NUM_SCALES - 1) ) vsi->scale_enum++;
+		}
+		else if (ref == vsi->scale_dn_cmd)
+		{
+			if (vsi->scale_enum > 0) vsi->scale_enum--;
+		}
+	}
+}
+
 void
 vsi_fini(void)
 {
@@ -1270,6 +1304,11 @@ vsi_fini(void)
 		dr_delete(&vsis[i].vs_dr_name_dr);
 		dr_delete(&vsis[i].vs_dr_fmt_dr);
 		dr_delete(&vsis[i].fail_dr_name_dr);
+
+		XPLMUnregisterCommandHandler(vsis[i].scale_up_cmd,
+			vsi_scale_command_handler, 1, NULL);
+		XPLMUnregisterCommandHandler(vsis[i].scale_dn_cmd,
+			vsi_scale_command_handler, 1, NULL);
 
 		for (int j = 0; j < 2; j++) {
 			if (vsis[i].tex[j].gl_tex != 0)

@@ -512,6 +512,7 @@ floop_cb(float elapsed_since_last_call, float elapsed_since_last_floop,
 
 		xtcas_init(&xp_intf_in_ops, out_ops);
 		xtcas_inited = B_TRUE;
+		generic_set_filter(TCAS_FILTER_ALL);
 	} else if (xtcas_is_powered() && !xtcas_is_failed() &&
 	    mode_req >= TCAS_MODE_STBY && mode_req <= TCAS_MODE_TARA &&
 	    filter_req >= TCAS_FILTER_ALL && filter_req <= TCAS_FILTER_EXP) {
