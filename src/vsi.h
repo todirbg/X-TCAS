@@ -16,8 +16,8 @@
  * Copyright 2017 Saso Kiselkov. All rights reserved.
  */
 
-#ifndef	_VSI_H_
-#define	_VSI_H_
+#ifndef _VSI_H_
+#define _VSI_H_
 
 #include "xtcas.h"
 
@@ -52,4 +52,4 @@ void vsi_update_RA(void *handle, tcas_adv_t adv, tcas_msg_t msg,
 }
 #endif
 
-#endif	/* _VSI_H_ */
+#endif /* _VSI_H_ */

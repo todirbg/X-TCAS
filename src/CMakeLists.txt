@@ -305,7 +305,7 @@ else()
 			-bundle")
 	else()
 			SET_TARGET_PROPERTIES(xtcas PROPERTIES LINK_FLAGS
-			"${CMAKE_SHARED_LINKER_FLAGS} -undefined_warning -fPIC -fvisibility=hidden")
+			"${CMAKE_SHARED_LINKER_FLAGS} -undefined_warning -fPIC -fvisibility=hidden -static")
 		if(UNIX AND NOT APPLE)
 			SET_TARGET_PROPERTIES(xtcas PROPERTIES LINK_FLAGS
 			"${CMAKE_SHARED_LINKER_FLAGS} -rdynamic -nodefaultlibs")

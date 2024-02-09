@@ -1283,6 +1283,8 @@ static int vsi_scale_command_handler(XPLMCommandRef ref, XPLMCommandPhase phase,
 			if (vsi->scale_enum > 0) vsi->scale_enum--;
 		}
 	}
+
+	return 0;
 }
 
 void
